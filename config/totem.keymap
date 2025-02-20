@@ -208,10 +208,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-           &kp GRAVE       &kp UNDER       &kp UP          &kp PLUS         &kp LBRC    &kp RBRC    &kp N7        &kp N8        &kp N9        &kp EQUAL
-           &kp LEFT_SHIFT  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LBKT    &kp RBKT    &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp MINUS
-&kp TILDE  &trans          &kp PG_UP       &kp LG(DOWN)    &kp PG_DN        &kp LPAR    &kp RPAR    &kp NUMBER_1  &kp N2        &kp N3        &kp KP_MULTIPLY  &trans
-                                           &trans          &trans           &trans      &kp PERIOD  &kp N0        &kp KP_COMMA
+         &kp Q           &kp N7        &kp N8        &kp N9        &kp LBRC    &kp RBRC      &kp N7        &kp N8        &kp N9     &kp EQUAL
+         &kp LEFT_SHIFT  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp LBKT    &kp LEFT      &kp UP_ARROW  &kp DOWN      &kp RIGHT  &kp MINUS
+&kp TAB  &trans          &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp LPAR    &kp RPAR      &kp NUMBER_1  &kp N2        &kp N3     &kp KP_MULTIPLY  &trans
+                                       &trans        &trans        &trans      &kp LEFT_WIN  &kp N0        &kp KP_COMMA
             >;
         };
 
